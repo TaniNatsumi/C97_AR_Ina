@@ -5,18 +5,17 @@
 		"Textures": [
 			"C97_Ina.2048/texture_00.png"
 		],
-		"Physics": "C97_Ina.physics3.json",
 		"DisplayInfo": "C97_Ina.cdi3.json"
 	},
 	"Groups": [
 		{
 			"Target": "Parameter",
-			"Name": "LipSync",
+			"Name": "EyeBlink",
 			"Ids": []
 		},
 		{
 			"Target": "Parameter",
-			"Name": "EyeBlink",
+			"Name": "LipSync",
 			"Ids": []
 		}
 	]
